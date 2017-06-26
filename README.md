@@ -7,7 +7,7 @@ please follow configuration down below, 3Q
 
     $ sudo apt-get install vim
 
-## Clone this project
+## Clone project
 
     $ git clone https://github.com/m033010041/vim_plugin.git
 
@@ -22,6 +22,10 @@ if you dont have .vimrc, you can ignore this step
 
     $ mkdir .vim
     $ cp /your_vim_plugin_directory/vimrc ~/.vim/.vimrc
+
+## Clone Vundle project
+
+    $ git clone https://github.com/gmarik/vundle.git ~/.vim/bundle/vundle
 
 ## link the new vim configuration
 
